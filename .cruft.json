@@ -1,0 +1,15 @@
+{
+  "template": "https://github.com/statisticsnorway/stat-hurtigstart-template-master",
+  "commit": "4f93f349c822cb728d4b0af2de84fca66865557f",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Miles Winther",
+      "email": "mmw@ssb.no",
+      "project_name": "dapla_github_metrics",
+      "description": "Collect metrics on use of Dapla from SSB's Github",
+      "_template": "https://github.com/statisticsnorway/stat-hurtigstart-template-master"
+    }
+  },
+  "directory": null
+}
